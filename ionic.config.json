@@ -1,0 +1,7 @@
+{
+  "name": "ouinenakol",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
